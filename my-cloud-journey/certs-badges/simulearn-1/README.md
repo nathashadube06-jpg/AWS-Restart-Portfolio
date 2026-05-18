@@ -39,5 +39,5 @@ By completing this SimuLearn, the recipient has demonstrated proficiency in:
 Amazon Web Services (AWS)
 Authorised by **Michelle Vaz**, Director of AWS Training & Certification.
 
-<img src="restart/aws_simullearn_certificate.png" width="500" border="2">
+<img src="restart/aws_simullearn_certificate.png" width="971" height="750" >
 
